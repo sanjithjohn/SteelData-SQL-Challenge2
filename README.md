@@ -1,1 +1,0 @@
-# SteelData-SQL-Challenge2
